@@ -22,7 +22,7 @@ npm install
 ```
 ![screenshot of website](./src/assets/images/Website%20Screenshot.png)
 
-[link to deployed application](sidiq96.github.io/data-finance/)
+[link to deployed application](https://sidiq96.github.io/First-Class-Travel/
 
 # Usage
 This application allows users to view and book travel packages.
